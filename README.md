@@ -85,7 +85,8 @@ endmodule
 
 ![Screenshot 2024-03-15 103220](https://github.com/S-Priyadharshan/study-of-basic-gates/assets/145854138/186f92cf-e04f-409a-abdc-3a6202beaee2)
 
-**Result:**
+**RESULT**
+
 Hence the study and verification of truth tables of various logic gates in Quartus II using Verilog programming is done successfully.
 
 
